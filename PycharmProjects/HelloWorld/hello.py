@@ -1,4 +1,3 @@
-#Program to trigger build in jenkins automatically
 #first Hello World program
 """Multiple line comments
 Python Strings"""
