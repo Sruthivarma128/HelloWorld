@@ -5,7 +5,6 @@ Python Strings"""
 a="Testing the integration of Github and Jenkins"
 b="Hello World"
 c='Hello World'
-d='Hellooooooo'
 w='HELLO WORLD'
 x="Hello's World"
 y='Hello\'s \\World'
